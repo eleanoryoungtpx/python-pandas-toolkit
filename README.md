@@ -7,6 +7,6 @@ If you have anything to add or any improvements, feel free to contribute by open
 ## Getting Started
 
 1. Clone the repository
-2. Naviagte to the project repositorty and create a virtual envrionment by running `python -m venv .venv`
-3. Activate the environment `.venv\Scripts\activate`
-4. Install the required packages `pip install -r requirements.txt`
+2. Navigate to the project repository and create a virtual environment by running `python -m venv .venv`
+3. Activate your environment by running `.venv\Scripts\activate`
+4. Install the required packages by running `pip install -r requirements.txt`
